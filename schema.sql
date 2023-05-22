@@ -7,7 +7,7 @@ CREATE TABLE departments (
 
 )
 
-CREATE TABLE rolls (
+CREATE TABLE roles (
 
 )
 
